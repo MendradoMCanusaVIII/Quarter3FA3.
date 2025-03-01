@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background: url(background.jpg) no-repeat;
+}
+.container {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #5c5454;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
